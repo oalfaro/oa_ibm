@@ -1,0 +1,72 @@
+1.	Descripción del Problema y Antecedentes:
+El problema consiste en identificar la ubicación óptima para abrir un restaurante en la ciudad de Toronto. Abrir un restaurante es una inversión significativa y una decisión estratégica que puede tener un impacto significativo en el éxito o fracaso del negocio. En base a esto, es crucial identificar un lugar que maximice las posibilidades de tener éxito.
+Algunos de los factores a considerar incluyen la densidad de población, la competencia en la zona, la accesibilidad, la demografía local, el costo del alquiler o compra de propiedades y las regulaciones locales. Además, es importante comprender los patrones de consumo y las preferencias culinarias de los residentes en diferentes áreas de la ciudad.
+Toronto:
+•	Ciudad multicultural con una amplia variedad de cocinas internacionales.
+•	Industria restaurantera altamente competitiva.
+•	Los usuarios buscan experiencias gastronómicas personalizadas y convenientes.
+Importancia de la ubicación:
+•	Factor clave para el éxito de un restaurante.
+•	Afecta el número de clientes, la rentabilidad y la imagen del restaurante.
+Análisis de datos como herramienta:
+•	Permite identificar patrones y tendencias en el mercado.
+•	Ayuda a tomar decisiones estratégicas sobre la ubicación de un nuevo restaurante.
+Beneficios de un modelo de recomendación:
+•	Reduce el riesgo de la inversión.
+•	Aumenta las posibilidades de éxito del negocio.
+•	Ofrece una mejor experiencia a los clientes.
+Limitaciones:
+•	La disponibilidad de datos puede ser un problema.
+•	Los modelos de recomendación no son perfectos y pueden cometer errores.
+
+
+
+
+2.	Descripción de los Datos y su Utilización:
+Los datos para utilizar incluirán información geoespacial de Toronto, como la densidad de población, las características demográficas, la ubicación de la competencia existente (otros restaurantes).
+Estos datos se utilizarán para realizar un análisis de ubicación que identifique áreas con alta demanda de restaurantes, pero baja competencia, considerando factores como la proximidad a calles principales, estaciones de transporte público y zonas residenciales densamente pobladas.
+Además, se pueden utilizar datos demográficos para comprender mejor a la audiencia objetivo y adaptar el concepto del restaurante a las preferencias locales. Por ejemplo, si una zona tiene una población joven y multicultural, podría ser más adecuada para un restaurante de comida rápida o étnica.
+Datos demográficos:
+•	Densidad de población:
+o	Permite identificar áreas con mayor potencial de demanda.
+•	Nivel de ingresos:
+o	Ayuda a segmentar el mercado y seleccionar el tipo de cocina adecuado.
+•	Distribución por edades:
+o	Permite determinar el tipo de ambiente y experiencia que buscan los clientes.
+•	Presencia de turistas:
+o	Oportunidad para restaurantes con cocina internacional o enfocados en el turismo.
+Datos de restaurantes:
+•	Número de restaurantes en el área:
+o	Permite evaluar la competencia en el mercado.
+•	Tipo de cocina:
+o	Ayuda a identificar nichos de mercado sin explotar.
+•	Rango de precios:
+o	Permite segmentar el mercado y determinar el precio adecuado para el nuevo restaurante.
+
+
+
+Uso de los datos:
+•	Análisis exploratorio de datos:
+o	Visualizar la distribución de variables.
+o	Identificar patrones y tendencias.
+o	Formular hipótesis.
+•	Aprendizaje automático:
+o	Entrenar un modelo de recomendación.
+o	Optimizar el modelo.
+•	Agrupamiento de barrios:
+o	Segmentar la ciudad en zonas con características similares.
+o	Personalizar las recomendaciones.
+•	Visualización de resultados:
+o	Presentar los resultados del análisis.
+o	Crear una presentación atractiva.
+Beneficios:
+•	Para los inversores:
+o	Reducir el riesgo de la inversión.
+o	Seleccionar la ubicación ideal para el restaurante.
+o	Aumentar las posibilidades de éxito del negocio.
+•	Para las ciudades:
+o	Atraer nuevos negocios.
+o	Fortalecer la economía local.
+o	Ofrecer una mejor experiencia a los residentes y visitantes.
+
+En resumen, se utilizarán datos geoespaciales y demográficos para realizar un análisis exhaustivo que permita identificar la ubicación óptima para abrir un restaurante en Toronto, considerando tanto la demanda del mercado como la competencia existente.
